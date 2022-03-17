@@ -6,7 +6,7 @@ body {
   line-height: 32px;
   color: #222222;
   background-color: #f2f4f6;
-  background-image: url("img/fon2.jpg");
+  background-image: url("https://raw.githubusercontent.com/AmbraAttori/nahui/main/fon2.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -38,7 +38,7 @@ body {
 
 .header-email {
   padding-left: 30px;
-  background-image: url("img/email.png");
+  background-image: url("https://raw.githubusercontent.com/AmbraAttori/nahui/main/email.png");
 }
 
 .header-phone {
@@ -116,11 +116,11 @@ body {
 }
 
 .skill-html {
-  background-image: url("img/spatb.png");
+  background-image: url("https://raw.githubusercontent.com/AmbraAttori/nahui/main/spatb.png");
 }
 
 .skill-css {
-  background-image: url("img/hui.png");
+  background-image: url("https://raw.githubusercontent.com/AmbraAttori/nahui/main/hui.png");
 }
 
 .level {
@@ -190,7 +190,7 @@ body {
 
 .footer-email {
   padding-left: 30px;
-  background-image: url("img/email2.png");
+  background-image: url("https://raw.githubusercontent.com/AmbraAttori/nahui/main/email2.png");
 }
 
 .footer-phone {
